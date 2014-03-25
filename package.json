@@ -7,6 +7,7 @@
     	"jade": ">= 0.0.1",
     	"winston": "~0.7.2",
     	"mongoose": "~3.8.4",
-    	"express-load-ns": "~1.1.9"
+    	"express-load-ns": "~1.1.9",
+    	"web.js": "*"
   	}
 }
