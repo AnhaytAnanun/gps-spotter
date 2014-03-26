@@ -8,6 +8,6 @@
     	"winston": "~0.7.2",
     	"mongoose": "~3.8.4",
     	"express-load-ns": "~1.1.9",
-    	"web": "*"
+    	"forever": "*"
   	}
 }
