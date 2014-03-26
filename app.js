@@ -29,7 +29,9 @@ app.use(express.static(__dirname + '/public'));
 
 // app.use(express.errorHandler());
 
-require("./init/db").init(config);
+// mongodb
+
+// require("./init/db").init(config);
 
 // API V1
 
