@@ -1,8 +1,22 @@
 body {
-  padding: 50px;
-  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+  	padding: 50px;
+  	background-image: url('../images/satellite.png');
+  	background-size: cover;
+	background-repeat: no-repeat;
 }
 
 a {
-  color: #00B7FF;
+  	color: #00B7FF;
+}
+
+h1 {
+	font: 90px 'Sofadi One', cursive;
+	text-align: center;
+	color: #663366;
+}
+
+p {
+	font: 45px 'Sofadi One', cursive;
+	text-align: center;
+	color: #663366;
 }
