@@ -1,18 +1,18 @@
 [
 	{
-		coordinate: {
-			longitude: 44.5126,
-			lattitude: 40.1775
+		"coordinate": {
+			"longitude": 44.5126,
+			"lattitude": 40.1775
 		},
-		info: {
-			car: {
-				type: 'supermini',
-				color: '0F34A1',
-				model: 'Volkswagen Polo'
+		"info": {
+			"car": {
+				"type": "supermini",
+				"color": "0F34A1",
+				"model": "Volkswagen Polo"
 			},
-			phone: '099293008',
-			name: 'Nick',
-			company: 'TVO'
+			"phone": "099293008",
+			"name": "Nick",
+			"company": "TVO"
 		}	
 	}
 ]
