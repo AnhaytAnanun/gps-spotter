@@ -9,7 +9,7 @@ exports.get = function (req, res, next) {
 	dirname = path.join(dirname, '/storage/satellites.txt');
 	fs.readFile(dirname, 'utf8', function(err, satellites) {
         console.error('GET /satellites', err);
-        res.send(200, JSON.parse(satellites));
+        res.json(200, { satellites: JSON.parse(satellites) });
     });
 };
 
